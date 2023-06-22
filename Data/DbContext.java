@@ -7,9 +7,9 @@ import java.sql.Statement;
 
 public class DbContext {
 
-    private String url = "jdbc:postgresql://localhost:5432/BancoGrupo5";
+    private String url = "jdbc:postgresql://localhost:5432/Conta_Bancaria";
     private String usuario = "postgres";
-    private String senha = "Estacio@123";
+    private String senha = "sodreexx";
 
     public Connection connection = null;
 
